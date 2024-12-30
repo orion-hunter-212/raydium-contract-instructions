@@ -12,3 +12,5 @@ spl-associated-token-account = { version = "6.0.0", features = [
 ] }
 thiserror = "2.0.9"
 ahash = "0.8.11"
+
+solana-zk-sdk = "2.1.0"
