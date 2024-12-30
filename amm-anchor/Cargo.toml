@@ -12,6 +12,6 @@ keywords = ["solana", "raydium", "amm", "anchor"]
 devnet = []
 
 [dependencies]
-anchor-lang = "0.29.0"
-anchor-spl = { version = "0.29.0" }
+anchor-lang = "0.30.1"
+anchor-spl = { version = "0.30.1" }
 raydium-contract-instructions = { path = "../lib" }
